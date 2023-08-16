@@ -1,0 +1,13 @@
+Hello, and welcome to A Simple Crossword!
+
+The game follows the usual rules of a crossword. The easy mode crosswords are 13x13 and the hard mode ones are 15x15. You can choose between either in the main menu itself. There are three puzzles in each mode which are randomized every time the program is run. Every time you fill one of the cells in the grid, you will be told whether it was a correct guess or not!
+
+Each crossword comes with its own clues, a stopwatch, a reset button and a submit button.
+
+STOPWATCH: The stopwatch automatically starts counting at generation of the crossword. It will automatically come to a stop when you click the select button and the program deems the puzzle complete.
+
+RESET: The reset button does exactly what it says - it will reset the entire grid back to zero. Did you press it by mistake? Don't worry! A dialogue box will appear before resetting to confirm the actual reset. Your current game is safe with me!
+
+SUBMIT: When you click the submit button, the game will check whether you have actually completed the entire grid. If you have, the stopwatch will stop and you will have won the game! If you haven't, then the game will remind you of your progress and the stopwatch will continue.
+
+Have fun!
